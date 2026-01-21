@@ -81,7 +81,7 @@ function Chatbot() {
     <div className="chatbot-container">
 
       <div className="chatbot-header">
-        <h1 className="chatbot-title">ASISTEN AI 🤖</h1>
+        <h1 className="chatbot-title">ASISTEN AII 🤖</h1>
         <p className="chatbot-subtitle">Tanyakan apa saja terkait data perusahaan</p>
       </div>
 
